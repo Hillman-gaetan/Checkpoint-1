@@ -19,7 +19,7 @@ Exemple de condition if. On entre un chiffre entier réel lors du lancement du s
 
 number=$@
 
-# Check if the number is greater than 5
+ #Check if the number is greater than 5
 if [ $number -gt 5 ]; then
     echo "The number is greater than 5."
 else
