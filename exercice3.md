@@ -12,7 +12,7 @@ Question 3:
 
 **Une variable locale n'est accessible qu'a l'intérieur du script en cours, aucun processus extérieur ne peut acceder à sa valeur. Elle est définie a l'intérieur d'un script sous le format: MAVARIABLE=XVALEUR
 La variable d'environnement est accessible à tous les procéssus lancé depuis un shell. Sa valeur est définie par avance et peut être appelée dans un script sans l'avoir préalablement définie.
-Les variables $@ $# se réfèrent aux arguments lors du lancement d'un script tandis que la variable environnement $USER se réfère à l'utilisateur en cours.**
+Les variables $ @ et $ # se réfèrent aux arguments lors du lancement d'un script tandis que la variable environnement $USER se réfère à l'utilisateur en cours.**
 
 
 
