@@ -86,8 +86,14 @@ c'est la couche en charge de construire une voie de communication entre ses vois
 Question 8:
 
 cd : Set-Location
+
+
 cp : Copy-Item
+
+
 mkdir : New-Item Directory
+
+
 ls : Get-ChildItem
 
 
