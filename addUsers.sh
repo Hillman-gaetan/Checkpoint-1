@@ -6,7 +6,7 @@ if [[ $# = 0 ]]; then
     exit 1
 fi
 #creation of secure password using openssl
-password="soleil1234"
+password="defaultpassword"
 hashed_password=$(openssl passwd "$password")
 
 # loop through each argument
