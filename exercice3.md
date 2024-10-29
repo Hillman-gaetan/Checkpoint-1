@@ -78,8 +78,8 @@ Question 6:
 
 Question 7:
 
-**Ce sont les couches Liaison (2) et Réseau (3). La couche Liaison, c'est l'adressage physique, l'adresse MAC sur la carte réseau. La Couche Réseau c'est l'adressage logique (IP) et determine le parcours des données,
-c'est la couche en charge de construire une voie de communication entre ses voisins (routage et acheminement)**
+**Ce sont les couches Liaison (2) et Réseau (3). La couche Liaison, c'est l'adressage physique, l'adresse MAC sur la carte réseau et le switch. La Couche Réseau c'est l'adressage logique (IP) et determine le parcours des données,
+c'est la couche en charge de construire une voie de communication entre ses voisins (routeur)**
 
 
 
